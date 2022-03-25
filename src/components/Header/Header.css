@@ -1,0 +1,19 @@
+.header{
+    height: 70px;
+    background-color: dimgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.header a {
+    color: aliceblue;
+    font-size: 18px;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.header a:hover{
+   color: gainsboro;
+}

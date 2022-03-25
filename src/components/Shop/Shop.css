@@ -1,0 +1,16 @@
+.shops-container {
+  background-color: antiquewhite;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.product-container{
+  display: grid;
+  grid-template-columns: repeat(3 ,1fr);
+  grid-gap: 40px;
+}
+.order-container{
+    background-color: coral;
+    padding-left: 18px;
+    
+
+}
